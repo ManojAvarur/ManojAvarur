@@ -10,7 +10,7 @@
 <br />
 
 <div align="center">
-    <h3>Languages and Tools:</h3>
+    <h3>🧠 Skills and Technologies:</h3>
     <table>
   <thead>
     <tr>
@@ -117,19 +117,37 @@
 <br />
 
 <div align="center">
-    <h3>Connect with me:</h3>
-    <table style="border: none;">
-        <tr>
-            <td>
-                <a href="https://linkedin.com/in/manoj-avarur" target="blank">
-                    <img align="center" src="assets\icons\linked-in-alt.svg" alt="manoj-avarur" height="30" width="40" />
-                </a>
-            </td>
-            <td>
-                <a href="mailto:manojavarur@gmail.com" target="blank">
-                    <img align="center" src="assets\icons\gmail.png" alt="manoj-avarur" height="30" width="40" />
-                </a>
-            </td>
-    </table>
+    <h3>🤖 Let's Connect:</h3>
+    <a href="https://linkedin.com/in/manoj-avarur" target="blank">
+        <img align="center" src="assets\icons\linked-in-alt.svg" alt="manoj-avarur" height="30" width="40" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:manojavarur@gmail.com" target="blank">
+        <img align="center" src="assets\icons\gmail.png" alt="manoj-avarur" height="30" width="40" />
+    </a>
+</div>
+
+<br />
+
+<div>
+    <h3 align="center">👨‍💻 About Me:</h3>
+<pre align="left">
+{
+  "name": "Manoj A M",
+  "role": "Full-Stack Developer (and part-time debugger of the universe)",
+  "location": "🌎 Planet Earth (for now)",
+  "coffee_cups_per_day": "☕☕☕☕☕ (maybe more)"
+}
+</pre>
+
+</div>
+
+<br />
+<br />
+
+<div align="center">
+    <a href="assets\Manoj A M - Software Developer.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    </a>
 </div>
 
