@@ -116,6 +116,20 @@
 
 <br />
 
+<div>
+    <h3 align="center">👨‍💻 About Me:</h3>
+    <pre align="left">
+    {
+        "name": "Manoj A M",
+        "role": "Full-Stack Developer (and part-time debugger of the universe)",
+        "location": "🌎 Planet Earth (for now)",
+        "coffee_cups_per_day": "☕☕☕☕☕ (maybe more)"
+    }
+    </pre>
+</div>
+
+<br />
+
 <div align="center">
     <h3>🤖 Let's Connect:</h3>
     <a href="https://linkedin.com/in/manoj-avarur" target="_blank">
@@ -125,21 +139,6 @@
     <a href="mailto:manojavarur@gmail.com" target="_blank">
         <img align="center" src="assets\icons\gmail.png" alt="manoj-avarur" height="30" width="40" />
     </a>
-</div>
-
-<br />
-
-<div>
-    <h3 align="center">👨‍💻 About Me:</h3>
-<pre align="left">
-{
-  "name": "Manoj A M",
-  "role": "Full-Stack Developer (and part-time debugger of the universe)",
-  "location": "🌎 Planet Earth (for now)",
-  "coffee_cups_per_day": "☕☕☕☕☕ (maybe more)"
-}
-</pre>
-
 </div>
 
 <br />
