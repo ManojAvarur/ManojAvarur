@@ -146,7 +146,7 @@
 
 <div align="center">
     <a href="assets\Manoj A M - Software Developer.pdf" download>
-    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    <img src="https://img.shields.io/badge/Open-Resume-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Resume" />
     </a>
 </div>
 
