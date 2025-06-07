@@ -118,7 +118,7 @@
 
 <div align="center">
     <h3>Connect with me:</h3>
-    <table>
+    <table style="border: none;">
         <tr>
             <td>
                 <a href="https://linkedin.com/in/manoj-avarur" target="blank">
