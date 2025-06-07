@@ -121,6 +121,7 @@
     <a href="https://linkedin.com/in/manoj-avarur" target="blank">
         <img align="center" src="assets\icons\linked-in-alt.svg" alt="manoj-avarur" height="30" width="40" />
     </a>
+    &nbsp;&nbsp;
     <a href="mailto:manojavarur@gmail.com" target="blank">
         <img align="center" src="assets\icons\gmail.png" alt="manoj-avarur" height="30" width="40" />
     </a>
