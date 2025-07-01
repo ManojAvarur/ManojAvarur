@@ -142,11 +142,22 @@
 </div>
 
 <br />
+
+<div align="center">
+    <h3>🚧 Checkout my Incomplete Portfolio😅:</h3>
+    <a href="https://manoj.dedyn.io" download>
+      <img src="https://img.shields.io/static/v1?label=Portfolio&message=WIP%20%E2%9C%A8&color=blue&style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Portfolio Link" />
+    </a>
+</div>
+
+
+<br />
 <br />
 
 <div align="center">
     <a href="assets\Manoj A M - Software Developer.pdf" download>
-    <img src="https://img.shields.io/badge/Open-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Resume" />
+        <img src="https://img.shields.io/badge/Open-Resume-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Resume" />
     </a>
 </div>
+
 
