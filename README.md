@@ -4,7 +4,7 @@
   🚀 Welcome to My Tech Space 🌟
 </h1>
 <h3 align="center">
-    I'm a <em><u>Software Developer</u></em> from <u><em>Bangalore India</em></u>, currently living in <u><em>Arizona USA</em></u>
+    I'm a <em><u>Software Developer</u></em> from <u><em>United States of America</em></u>
 </h3>
 
 <br />
