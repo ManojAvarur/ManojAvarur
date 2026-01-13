@@ -101,6 +101,7 @@
     <img src="https://img.shields.io/badge/Microservices-%23009688?logo=spring&logoColor=white&style=flat-square"/>
     <img src="https://img.shields.io/badge/Agile%2FScrum-%23F7DF1E?logo=jira&logoColor=black&style=flat-square"/>
     <img src="https://img.shields.io/badge/Load%20Testing-%23E2231A?logo=apachejmeter&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/Microsoft_.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"
   </td>
 </tr>
     <tr>
